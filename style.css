@@ -20,10 +20,14 @@
 
  body {
      background-color: var(--primary-cream);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
  }
 
  .container {
-     margin: 40px auto;
+
      background-color: var(--Neutral-White);
      height: 500px;
      width: 720px;
