@@ -147,7 +147,7 @@
          display: block;
          width: 100%;
          height: 200px;
-       border-radius: 15px 15px 0 0;
+         border-radius: 15px 15px 0 0;
      }
 
      .right button {
@@ -177,4 +177,4 @@
         font-weight: 700;
         font-size: 25px;
     }
- };
+    };
